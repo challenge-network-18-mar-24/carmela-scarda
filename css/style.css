@@ -1,5 +1,5 @@
 ._titolo {
-    color: rgb(139, 95, 22);
+    color: rgb(34, 24, 7);
     text-align: center;
     font-size: xx-large;
     font-family: serif;
@@ -22,7 +22,7 @@
 .lista {
     font-size: x-large;
     font-style: italic;
-    background-color: lavender;
+    background-color: burlywood;
 }
 
 .img {
