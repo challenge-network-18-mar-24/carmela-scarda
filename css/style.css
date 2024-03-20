@@ -1,23 +1,28 @@
 ._titolo {
-    color: rgb(199, 146, 80);
+    color: rgb(139, 95, 22);
     text-align: center;
     font-size: xx-large;
+    font-family: serif;
 
 }
 
 .sfondo {
-    background-color: beige;
+    background-color: bisque;
 }
+
+/*immagini sfondo prova*/
 
 
 .testo {
     font-size: x-large;
+    font-weight: bolder;
 
 }
 
 .lista {
     font-size: x-large;
     font-style: italic;
+    background-color: lavender;
 }
 
 .img {
