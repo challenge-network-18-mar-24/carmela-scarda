@@ -3,11 +3,18 @@
     text-align: center;
     font-size: xx-large;
     font-family: serif;
+    text-decoration: underline;
 
+}
+
+.titles {
+    background-color: lightgray;
+    border: 2px solid;
 }
 
 .sfondo {
     background-color: bisque;
+    border: 3px solid;
 }
 
 /*immagini sfondo prova*/
@@ -15,14 +22,15 @@
 
 .testo {
     font-size: x-large;
-    font-weight: bolder;
+    font-style: normal;
 
 }
 
 .lista {
     font-size: x-large;
     font-style: italic;
-    background-color: burlywood;
+    background-color: ivory;
+    border: 2px solid;
 }
 
 .img {
