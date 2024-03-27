@@ -1,38 +1,22 @@
-._titolo {
-    color: rgb(34, 24, 7);
-    text-align: center;
-    font-size: xx-large;
-    font-family: serif;
-    text-decoration: underline;
-
+* style {
+    box-sizing: border-box;
 }
 
-.titles {
-    background-color: lightgray;
-    border: 2px solid;
+.logo {
+    width: 80px;
 }
 
-.sfondo {
-    background-color: bisque;
-    border: 3px solid;
+.navbar{
+    background-color: rgb(136, 133, 133);
 }
 
-/*immagini sfondo prova*/
 
-
-.testo {
-    font-size: x-large;
-    font-style: normal;
-
+.link{
+    background-color: black;
 }
-
-.lista {
-    font-size: x-large;
-    font-style: italic;
-    background-color: ivory;
-    border: 2px solid;
+.form-control{
+    background-color: grey;
 }
-
-.img {
-    width: 600px;
+.Search{
+    background-color: black;
 }
