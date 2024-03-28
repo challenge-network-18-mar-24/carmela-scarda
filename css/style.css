@@ -1,22 +1,9 @@
-* style {
-    box-sizing: border-box;
-}
 
-.logo {
-    width: 80px;
-}
-
-.navbar{
-    background-color: rgb(136, 133, 133);
-}
-
-
-.link{
-    background-color: black;
-}
-.form-control{
-    background-color: grey;
-}
-.Search{
-    background-color: black;
+    
+ .body{
+    background-image: url();
+ }
+.img{
+    width: 100%;
+    padding-top: 10px;
 }
